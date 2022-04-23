@@ -2,8 +2,8 @@
 
 | Image Code  | Description | FileName |
 | ----------- | ----------- | -------- |
-| 3483        | top down image from right | [IMG_3483](https://github.com/Ghost35431/projects/blob/bc4b383987b6500137889e9dac569127386d369b/typewriter/assets/images/IMG_3483.JPG) |
-| 3484        | top down image from left |
+| 3483        | top down image from right | [IMG_3483.jpg](https://raw.githubusercontent.com/Ghost35431/projects/bc4b383987b6500137889e9dac569127386d369b/typewriter/assets/images/IMG_3483.JPG) |
+| 3484        | top down image from left | [IMG_3484.jpg](https://raw.githubusercontent.com/Ghost35431/projects/bc4b383987b6500137889e9dac569127386d369b/typewriter/assets/images/IMG_3484.JPG) |
 | 3485        | top down image from left with top cover open |
 | 3486        | see 3485 |
 | 3487        | less top down from right |
