@@ -2,7 +2,7 @@
 
 | Image Code  | Description | FileName |
 | ----------- | ----------- | -------- |
-| 3483        | top down image from right | [IMG_3483](https://mylzmccullough.ga/projects/typewriter/assets/images/IMG_3483.jpg) |
+| 3483        | top down image from right | [IMG_3483](https://github.com/Ghost35431/projects/blob/bc4b383987b6500137889e9dac569127386d369b/typewriter/assets/images/IMG_3483.JPG) |
 | 3484        | top down image from left |
 | 3485        | top down image from left with top cover open |
 | 3486        | see 3485 |
