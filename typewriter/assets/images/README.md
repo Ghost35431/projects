@@ -2,14 +2,14 @@
 
 | Image Code  | Description | FileName |
 | ----------- | ----------- | -------- |
-| 3483        | top down image from right | IMG_3483.jpg |
+| 3483        | top down image from right | [IMG_3483](https://mylzmccullough.ga/projects/typewriter/assets/images/IMG_3483.jpg) |
 | 3484        | top down image from left |
-| 3485        ||
-| 3486        ||
-| 3487        ||
-| 3488        ||
-| 3489        ||
-| 3490        ||
+| 3485        | top down image from left with top cover open |
+| 3486        | see 3485 |
+| 3487        | less top down from right |
+| 3488        | better view of top with cover open |
+| 3489        | better view of the paper holder and margin cover |
+| 3490        | see 3489 |
 | 3491        ||
 | 3492        ||
 | 3493        ||
